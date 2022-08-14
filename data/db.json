@@ -1,0 +1,29 @@
+{
+  "decks": [
+    {
+      "name": "new deck",
+      "description": "this is a new deck of flash cards",
+      "id": 6
+    }
+  ],
+  "cards": [
+    {
+      "front": "card 1",
+      "back": "back side",
+      "deckId": 6,
+      "id": 1
+    },
+    {
+      "front": "card 2",
+      "back": "back side",
+      "deckId": 6,
+      "id": 2
+    },
+    {
+      "front": "card 3",
+      "back": "back",
+      "deckId": 6,
+      "id": 3
+    }
+  ]
+}
